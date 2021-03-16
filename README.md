@@ -1,13 +1,13 @@
-# << ENTER WORKSHOP NAME HERE >>
-Materials for the DMDS workshop: **<<  ENTER WORKSHOP NAME HERE  >> **  
+# Best Practices for Managing Data in your Research
+Materials for the DMDS workshop: **Best Practices for Managing Data in your Research**  
 
 This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/<<enter_site_url>>) with GitHub Pages   
 
 
 Contributions by the following individuals: 
-- Workshop content created by << ENTER NAME(S) HERE >> 
-- Content edited for online use by << ENTER NAME(S) HERE >> 
-- Online pages created by << ENTER NAME(S) HERE >> 
+- Workshop content created by << Isaac Pratt >> 
+- Content edited for online use by << Jay Brodeur >> 
+- Online pages created by << Isaac Pratt >> 
 
 
   
