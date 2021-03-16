@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 
-<img src="assets/img/dmds-tableau.png" alt="Workshop Title Slide" width="720">
+<img src="assets/img/dmds-rdm.png" alt="Workshop Title Slide" width="720">
 
 # Welcome to Best Practices for Managing Data in your Research. 
 
