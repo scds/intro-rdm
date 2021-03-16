@@ -5,15 +5,13 @@ description: SCDS Do More with Digital Scholarship workshop series
 nav_order: 1
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
-<!--
 <img src="assets/img/dmds-tableau.png" alt="Workshop Title Slide" width="720">
 
-# Welcome to Data Visualization with Tableau. 
+# Welcome to Best Practices for Managing Data in your Research. 
 
-You might not think of numbers and locations as Humanities data, but it all depends on how you use them! Working with numeric and spatial data, you will learn how to create visualizations in [Tableau](https://www.tableau.com/).
+In this introductory workshop, learn about research data management best practices and how investing a small amount of time in organizing your data now can save you a lot of time and prevent future headaches. We will go over  best practices for data planning, storage, organization, preservation, and sharing.
 
-Proceed to the [Preparation](preparation) page to get started.
--->
+Proceed to the [Watch](watch) page to get started.
+
 
