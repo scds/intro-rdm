@@ -7,9 +7,9 @@ nav_order: 2
 
 ## Workshop recording
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public?autoplay=false&automute=false"></iframe>
+<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef38efab4/public?autoplay=false&automute=false"></iframe>
 
-View the original [here](https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public).
+View the original [here](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef38efab4/public).
 
 
 ## Workshop slides
