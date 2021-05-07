@@ -4,6 +4,7 @@ title: Watch
 nav_order: 2
 ---
 
+In this introductory workshop, learn about research data management best practices and how investing a small amount of time in organizing your data now can save you a lot of time and prevent future headaches. We will go over  best practices for data planning, storage, organization, preservation, and sharing.
 
 ## Workshop recording
 
@@ -19,4 +20,3 @@ View the original [here](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef3
 </div>
 [Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/DMDS_RDM_Mar2021_Slides.pdf)
 <br>
-
