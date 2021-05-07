@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Watch
+title: Best Practices for Managing Data in your Research.
 nav_order: 2
 ---
 
