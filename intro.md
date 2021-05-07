@@ -4,6 +4,8 @@ title: Best Practices for Managing Data in your Research.
 nav_order: 2
 ---
 
+# Best Practices for Managing Data in your Research.
+
 In this introductory workshop, learn about research data management best practices and how investing a small amount of time in organizing your data now can save you a lot of time and prevent future headaches. We will go over  best practices for data planning, storage, organization, preservation, and sharing.
 
 ## Workshop recording

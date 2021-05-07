@@ -4,6 +4,11 @@ title: Building a Data Management Plan for your research project.
 nav_order: 3
 ---
 
+# Building a Data Management Plan for your research project.
+
+Confucius said “One who does not plan long ahead will find trouble at his door”. In research, planning for data management helps you prepare for data questions and problems before they happen. In this session, we will go over principles of data management planning and go through a demo of the Portage DMP Assistant, a web-based tool for developing and collaborating on Data Management Plans in the Canadian research context.
+
+
 
 ## Workshop recording
 
@@ -40,14 +45,14 @@ View the original [here](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef3
 * See our [Strategies for research data storage and backup webinar](storage) for more.
 
 ### Preservation
-*Portage Network [Portage Repository Options Guide](https://portagenetwork.ca/wp-content/uploads/2019/06/Repository-Options-Guide_EN.pdf)
-*DataCite [Repository Finder tool](https://repositoryfinder.datacite.org/)
-*[McMaster Dataverse](https://dataverse.scholarsportal.info/dataverse/mcmaster)
-*[FRDR](https://www.frdr-dfdr.ca/repo/)
+* Portage Network [Portage Repository Options Guide](https://portagenetwork.ca/wp-content/uploads/2019/06/Repository-Options-Guide_EN.pdf)
+* DataCite [Repository Finder tool](https://repositoryfinder.datacite.org/)
+* [McMaster Dataverse](https://dataverse.scholarsportal.info/dataverse/mcmaster)
+* [FRDR](https://www.frdr-dfdr.ca/repo/)
 
 ### Sharing & Re-use
-*Portage Network [De-Identification Guidance Document](https://zenodo.org/record/4270551)
-*DCC [How to License Research Data](https://www.dcc.ac.uk/guidance/how-guides/license-research-data)
+* Portage Network [De-Identification Guidance Document](https://zenodo.org/record/4270551)
+* DCC [How to License Research Data](https://www.dcc.ac.uk/guidance/how-guides/license-research-data)
 
 ### Responsibilities & resources
 * UK Data Service [Costing tool and checklist](https://ukdataservice.ac.uk/media/622368/costingtool.pdf)
