@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Building a Data Management Plan for your research project.
+title: Webinar: Building a Data Management Plan for your research project.
 nav_order: 3
 ---
 
