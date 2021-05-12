@@ -4,7 +4,7 @@ title: Learn More
 nav_order: 6
 ---
 
-- Contact us at [rdm@mcmaster.ca](rdm@mcmaster.ca)
+- Contact us at [rdm@mcmaster.ca](mailto:rdm@mcmaster.ca)
 
 ## More info and other tools
 
