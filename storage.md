@@ -10,8 +10,8 @@ Looking for a better way to store your data? Not sure what the difference is bet
 
 Workshop recording
 <iframe height="540" width="853" allowfullscreen frameborder=0 src="
-https://echo360.ca/media/e530a420-2a4c-4171-a2a6-a8f7e4a8a35f/public"></iframe>
-View the original [here](https://echo360.ca/media/e530a420-2a4c-4171-a2a6-a8f7e4a8a35f/public).
+https://echo360.ca/media/867cb325-5534-4673-80cd-a7b1fd7d57fc/public"></iframe>
+View the original [here](https://echo360.ca/media/867cb325-5534-4673-80cd-a7b1fd7d57fc/public).
 
 Workshop slides
 <div style="position:relative;padding-top:66.25%;">
