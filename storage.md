@@ -19,5 +19,16 @@ Workshop slides
 
 ## Resources referenced during the presentation:
 
-### General:
-* 
+### McMaster [Research Data Storage Finder](https://u.mcmaster.ca/storagefinder)
+
+### McMaster Supported Institutional Cloud Storage Providers
+* [OneDrive](https://office365.mcmaster.ca/office-365-3/applications/ms-onedrive/)
+* [MacDrive](macdrive.mcmaster.ca/)
+* [MacDrive Documentation Guide](https://goo.gl/AvRGwx)
+
+### [Compute Canada](https://www.computecanada.ca/)
+* [Compute Canada Getting Started Guide](https://docs.computecanada.ca/wiki/Getting_started)
+* [Make a Compute Canada account](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/)
+
+### [McMaster Dataverse](https://dataverse.scholarsportal.info/dataverse/mcmaster)
+* [Data Deposit Guidelines](https://library.mcmaster.ca/sites/default/files/2021_05_mcmaster_dataverse_data_deposit_guidelines.pdf)
