@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Webinar - Essentials of open data sharing.
+title: <b>Webinar 4</b> - Essentials of open data sharing.
 nav_order: 5
 ---
 
