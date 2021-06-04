@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Webinar: Strategies for research data storage and backup.
+title: Webinar - Strategies for research data storage and backup.
 nav_order: 4
 ---
 
