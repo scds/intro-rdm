@@ -32,3 +32,8 @@ Workshop slides
 
 ### [McMaster Dataverse](https://dataverse.scholarsportal.info/dataverse/mcmaster)
 * [Data Deposit Guidelines](https://library.mcmaster.ca/sites/default/files/2021_05_mcmaster_dataverse_data_deposit_guidelines.pdf)
+
+### Security Resources
+* [University of Illinois Password Strength Test](https://www.uic.edu/apps/strong-password/)
+* [MFA at McMaster](https://office365.mcmaster.ca/mfa/)
+* [McMaster RDM Webpage on Securing data](https://library.mcmaster.ca/services/rdm#tab-secure-your-data)
