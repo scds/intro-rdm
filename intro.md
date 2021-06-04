@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Webinar - Best Practices for Managing Data in your Research.
+title: <b>Webinar 1</b> - Best Practices for Managing Data in your Research.
 nav_order: 2
 ---
 
