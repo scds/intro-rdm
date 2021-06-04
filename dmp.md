@@ -21,7 +21,7 @@ View the original [here](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef3
 <div style="position:relative;padding-top:66.25%;">
 <iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/DMDS_RDM_Mar2021_Slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
-[Download as a PDF](https://github.com/scds/intro-rdm/assets/docs/2021-05-07_DMP_Slides.pdf)
+[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-05-07_DMP_Slides.pdf)
 <br>
 
 ## Resources referenced during the presentation:
