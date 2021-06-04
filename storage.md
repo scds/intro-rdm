@@ -11,7 +11,7 @@ Looking for a better way to store your data? Not sure what the difference is bet
 Workshop recording
 <iframe height="540" width="853" allowfullscreen frameborder=0 src="
 https://echo360.ca/media/e530a420-2a4c-4171-a2a6-a8f7e4a8a35f/public"></iframe>
-View the original here.
+View the original [here](https://echo360.ca/media/e530a420-2a4c-4171-a2a6-a8f7e4a8a35f/public).
 
 Workshop slides
 <iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-06-03_DataStorage_Slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
