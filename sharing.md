@@ -46,4 +46,4 @@ Workshop slides
 * Nature Scientific [Data Recommended Data Repositories](https://www.nature.com/sdata/policies/repositories)
 * [re3data Registry of Research Data Repositories](https://www.re3data.org/)
 * [McMaster Dataverse](https://dataverse.scholarsportal.info/dataverse/mcmaster)
-* [FRDR](https://www.frdr-dfdr.ca/repo/)
+* [Federated Research Data Repository (FRDR)](https://www.frdr-dfdr.ca/repo/)
