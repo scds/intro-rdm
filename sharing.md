@@ -34,6 +34,7 @@ Workshop slides
 * McMaster Library [webpage on file naming and organization](https://library.mcmaster.ca/services/rdm#tab-organizing-research-files-and-folders)
 * Cornell [ReadMe template](https://cornell.app.box.com/v/ReadmeTemplate)
 * DCC [list of disciplinary metadata standards](https://www.dcc.ac.uk/guidance/standards/metadata)
+* Dataverse North [Metadata Best Practices Guide 2.0](http://hdl.handle.net/2429/73609)
 * DCC [How to License Research Data](https://www.dcc.ac.uk/guidance/how-guides/license-research-data)
 * Creative Commons [Licenses](creativecommons.org)
 * Open Data Commons [Licenses](opendatacommons.org)
