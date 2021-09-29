@@ -8,12 +8,12 @@ nav_order: 5
 
 Join the open data movement! Are you thinking about sharing your data? Have you been told by a journal or funder that you need to publish your data online? In this session, we will go over the benefits (and potential risks) of data sharing, and highlight some of the different data repository options available to you as a researcher.
 
-Workshop recording
+## Workshop recording
 <iframe height="540" width="853" allowfullscreen frameborder=0 src="
 https://echo360.ca/media/478baaa3-fbe2-4dcb-8e35-22d8daaf146e/public"></iframe>
 View the original [here](https://echo360.ca/media/478baaa3-fbe2-4dcb-8e35-22d8daaf146e/public).
 
-Workshop slides
+## Workshop slides
 <div style="position:relative;padding-top:66.25%;">
 <iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-07-08 Data Sharing slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>

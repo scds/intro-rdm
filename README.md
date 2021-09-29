@@ -5,7 +5,7 @@ This repository contains workshop files, as well as files used to create the [wo
 
 
 Contributions by the following individuals:
-- Workshop content created by Isaac Pratt
+- Workshop content created by Isaac Pratt, Jay Brodeur, and Jeffrey Demaine
 - Content edited for online use by Jay Brodeur and Isaac Pratt
 - Online pages created by Isaac Pratt
 
