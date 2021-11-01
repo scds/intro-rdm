@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>Webinar 1</b> - Best Practices for Managing Data in your Research.
+title: <b>Webinar 1</b> - Intro to RDM Best Practices.
 nav_order: 2
 ---
 

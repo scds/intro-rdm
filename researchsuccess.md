@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>Webinar 5</b> - Set yourself up for research success - Manage your data like a pro, and get your own ORCiD profile.
+title: <b>Webinar 5</b> - 3 Top Tips for RDM & How to set up an ORCiD profile.
 nav_order: 6
 ---
 
