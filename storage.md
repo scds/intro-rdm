@@ -38,4 +38,4 @@ View the original [here](https://echo360.ca/media/867cb325-5534-4673-80cd-a7b1fd
 ### Security Resources
 * [University of Illinois Password Strength Test](https://www.uic.edu/apps/strong-password/)
 * [MFA at McMaster](https://office365.mcmaster.ca/mfa/)
-* [McMaster RDM Webpage on Securing data](https://library.mcmaster.ca/services/rdm#tab-secure-your-data)
+* [McMaster RDM Webpage on Securing data](https://rdm.mcmaster.ca/secure)

@@ -13,4 +13,4 @@ If you want to read more about RDM or access resources, check out the [Learn Mor
 
 If you're looking for upcoming live webinars and workshops, check out the listings on the [Sherman Centre website](https://scds.ca/events/dmds/2021-2022-2/).
 
-RDM Services at McMaster are provided by the [Sherman Centre](https://scds.ca/) and sponsored by the [University Library](https://library.mcmaster.ca/) and [RHPCS](https://research.mcmaster.ca/research-resources/local-it/rhpcs/).
+[RDM Services](http://rdm.mcmaster.ca) at McMaster are provided by the [Sherman Centre](https://scds.ca/) and sponsored by the [University Library](https://library.mcmaster.ca/) and [RHPCS](https://research.mcmaster.ca/research-resources/local-it/rhpcs/).

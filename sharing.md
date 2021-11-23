@@ -31,7 +31,7 @@ View the original [here](https://echo360.ca/media/478baaa3-fbe2-4dcb-8e35-22d8da
 * McMaster [Dataverse Deposit Guidelines](https://library.mcmaster.ca/sites/default/files/2021_05_mcmaster_dataverse_data_deposit_guidelines.pdf)
 * DataverseNO [Prepare your data: Preferred file formats](https://site.uit.no/dataverseno/deposit/prepare/#what-are-preferred-file-formats)
 * DCN Data Curation [Primers on different file formats](https://datacurationnetwork.org/outputs/data-curation-primers/)
-* McMaster Library [webpage on file naming and organization](https://library.mcmaster.ca/services/rdm#tab-organizing-research-files-and-folders)
+* McMaster RDM [webpage on file naming and organization](https://rdm.mcmaster.ca/organize#tab-file-folder-organization)
 * Cornell [ReadMe template](https://cornell.app.box.com/v/ReadmeTemplate)
 * DCC [list of disciplinary metadata standards](https://www.dcc.ac.uk/guidance/standards/metadata)
 * Dataverse North [Metadata Best Practices Guide 2.0](http://hdl.handle.net/2429/73609)
