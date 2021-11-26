@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>Webinar 6</b> - Research Project Management with OSF.
+title: <b>Webinar 6</b> - Research Project Management with OSF
 nav_order: 7
 ---
 
@@ -12,7 +12,11 @@ OSF is a free, open platform to support research and enable collaboration. Join 
 
 ## Workshop recording
 
-Recording coming soon...
+<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/42c68728-bfad-4249-88bc-c0ab054ddaa2/public?autoplay=false&automute=false"></iframe>
+
+View the original [here](https://echo360.ca/media/42c68728-bfad-4249-88bc-c0ab054ddaa2/public).
+
+
 
 ## Workshop slides
 
