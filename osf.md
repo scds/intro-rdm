@@ -16,8 +16,6 @@ OSF is a free, open platform to support research and enable collaboration. Join 
 
 View the original [here](https://echo360.ca/media/42c68728-bfad-4249-88bc-c0ab054ddaa2/public).
 
-
-
 ## Workshop slides
 
 <div style="position:relative;padding-top:66.25%;">
