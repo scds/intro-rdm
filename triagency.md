@@ -1,7 +1,7 @@
 ---
 layout: default
-title: <b>Webinar 6</b> - Tri-Agency RDM requirements
-nav_order: 7
+title: <b>Webinar 7</b> - Tri-Agency RDM requirements
+nav_order: 8
 ---
 
 # What you need to know about the Tri-Agency RDM Policy
