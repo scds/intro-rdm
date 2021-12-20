@@ -11,8 +11,8 @@ Are you a researcher who has received a Tri-Agency (CIHR, NSERC, or SSHRC) grant
 
 ## Workshop recording
 
-Recording coming soon...
-
+<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/a8c98c7b-0f41-4510-9100-7955de3e0ca5/public"></iframe>
+View the original [here](https://echo360.ca/media/a8c98c7b-0f41-4510-9100-7955de3e0ca5/public).
 
 ## Workshop slides
 
