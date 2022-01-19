@@ -1,7 +1,7 @@
 # Research Data Management Introductory Workshops
 Materials for the DMDS workshop: **Research Data Management Introductory Workshops**  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/intro-rdm) with GitHub Pages   
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/intro-rdm) with GitHub Pages.
 
 
 Contributions by the following individuals:
