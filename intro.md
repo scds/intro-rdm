@@ -10,10 +10,9 @@ In this introductory workshop, learn about research data management best practic
 
 ## Workshop recording
 
-<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/5185ce52-f2c0-44cd-8594-da1456224d4e/public"></iframe>
+<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/5185ce52-f2c0-44cd-8594-da1456224d4e/public"></iframe>
 
 View the original [here](https://echo360.ca/media/5185ce52-f2c0-44cd-8594-da1456224d4e/public).
-
 
 ## Workshop slides
 

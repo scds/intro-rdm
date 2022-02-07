@@ -12,7 +12,7 @@ Confucius said “One who does not plan long ahead will find trouble at his door
 
 ## Workshop recording
 
-<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/c36015ba-5709-4588-bc26-621e96abf6ff/public"></iframe>
+<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/c36015ba-5709-4588-bc26-621e96abf6ff/public"></iframe>
 
 View the original [here](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef38efab4/public).
 

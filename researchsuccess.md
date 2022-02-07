@@ -13,7 +13,7 @@ Your profile as a researcher is a story that you create, and you will need an on
 Set up your research project for success with good data management practices. Learn how to organize and document your data to save time and make your life easier. Follow a few simple tips to keep your data safe and securely store your research data so your thesis isn't taken down by a hard drive failure.
 
 ## Workshop recording
-<iframe height="540" width="853" allowfullscreen frameborder=0 src="
+<iframe height="360" width="640" allowfullscreen frameborder=0 src="
 https://echo360.ca/media/3575d824-0253-414e-b0ed-8096b1d77956/public"></iframe>
 View the original [here](https://echo360.ca/media/3575d824-0253-414e-b0ed-8096b1d77956/public).
 
