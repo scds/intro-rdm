@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>Webinar 1</b> - Intro to RDM Best Practices.
+title: <b>1</b> - Intro to RDM Best Practices.
 nav_order: 2
 ---
 

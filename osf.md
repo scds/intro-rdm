@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>Webinar 6</b> - Research Project Management with OSF
+title: <b>6</b> - Research Project Management with OSF
 nav_order: 7
 ---
 

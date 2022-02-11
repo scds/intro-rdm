@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>Webinar 4</b> - Open (and closed) data sharing.
+title: <b>4</b> - Open (and closed) data sharing.
 nav_order: 5
 ---
 
