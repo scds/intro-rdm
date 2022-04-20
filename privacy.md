@@ -4,7 +4,7 @@ title: <b>9</b> - Data Privacy
 nav_order: 10
 ---
 
-# Data Privacy Best Practices.
+# Data Privacy Best Practices
 
 <img alt="Data Privacy webinar advert graphic" style="border-width:0" src="https://github.com/scds/intro-rdm/raw/main/assets/img/DataPrivacy.png">
 
