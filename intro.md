@@ -25,8 +25,8 @@ View the original [here](https://echo360.ca/media/5185ce52-f2c0-44cd-8594-da1456
 ## Resources referenced during the presentation:
 
 ### Data Management Plans
-* [Portage DMP Assistant](assistant.portagenetwork.ca)
-* [Building a Data Management Plan for your research project webinar](scds.github.io/intro-rdm/dmp)
+* [Portage DMP Assistant](https://assistant.portagenetwork.ca)
+* [Building a Data Management Plan for your research project webinar](https://scds.github.io/intro-rdm/dmp)
 * Portage Network [DMP Exemplars and Templates](https://portagenetwork.ca/tools-and-resources/training-resources/)
 
 ### Data Management
@@ -36,8 +36,8 @@ View the original [here](https://echo360.ca/media/5185ce52-f2c0-44cd-8594-da1456
 * [Tri-Agency Data Management Policy](http://www.science.gc.ca/eic/site/063.nsf/eng/h_97610.html)
 
 ### Data Sharing
-* [Creative Commons Licenses](creativecommons.org)
-* [Open Data Commons Licenses](opendatacommons.org)
+* [Creative Commons Licenses](http://creativecommons.org)
+* [Open Data Commons Licenses](http://opendatacommons.org)
 * [Dataverse Community Norms](https://dataverse.org/best-practices/dataverse-community-norms)
 * DataCite [Repository Finder tool](https://repositoryfinder.datacite.org/)
 * Nature Scientific [Data Recommended Data Repositories](https://www.nature.com/sdata/policies/repositories)
