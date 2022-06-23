@@ -42,7 +42,7 @@ View the original [here](https://echo360.ca/media/5185ce52-f2c0-44cd-8594-da1456
 * DataCite [Repository Finder tool](https://repositoryfinder.datacite.org/)
 * Nature Scientific [Data Recommended Data Repositories](https://www.nature.com/sdata/policies/repositories)
 * [re3data Registry of Research Data Repositories](https://www.re3data.org/)
-* [McMaster Dataverse](https://dataverse.scholarsportal.info/dataverse/mcmaster)
+* [McMaster Dataverse](https://borealisdata.ca/dataverse/mcmaster)
 * [Federated Research Data Repository (FRDR)](https://www.frdr-dfdr.ca/repo/)
 
 ### Previous session recordings
