@@ -26,8 +26,8 @@ View the original [here](https://echo360.ca/media/5185ce52-f2c0-44cd-8594-da1456
 
 ### Data Management Plans
 * [Portage DMP Assistant](https://assistant.portagenetwork.ca)
-* [Building a Data Management Plan for your research project webinar](https://scds.github.io/intro-rdm/dmp)
-* Portage Network [DMP Exemplars and Templates](https://portagenetwork.ca/tools-and-resources/training-resources/)
+* [Building a Data Management Plan for your research project webinar](dmp)
+* Digital Research Alliance of Canada (formerly Portage Network) [DMP Exemplars and Templates](https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources#heading-dmp-exemplars)
 
 ### Data Management
 * [FAIR Principles](https://www.go-fair.org/fair-principles/)

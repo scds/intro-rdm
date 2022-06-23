@@ -42,7 +42,7 @@ View the original [here](https://echo360.ca/media/478baaa3-fbe2-4dcb-8e35-22d8da
 * Open Data Commons [Community Norms](https://opendatacommons.org/norms/)
 
 ### Data Repositories
-* Portage Network [Portage Repository Options Guide](https://portagenetwork.ca/wp-content/uploads/2019/06/Repository-Options-Guide_EN.pdf)
+* Portage Network [Portage Repository Options Guide](https://zenodo.org/record/3966349)
 * DataCite [Repository Finder tool](https://repositoryfinder.datacite.org/)
 * Nature Scientific [Data Recommended Data Repositories](https://www.nature.com/sdata/policies/repositories)
 * [re3data Registry of Research Data Repositories](https://www.re3data.org/)

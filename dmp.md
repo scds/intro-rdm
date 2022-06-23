@@ -33,7 +33,7 @@ View the original [here](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef3
 ### File formats:
 * DataverseNO [Prepare your data: Preferred file formats](https://site.uit.no/dataverseno/deposit/prepare/#what-are-preferred-file-formats)
 * DCN Data Curation [Primers on different file formats](https://datacurationnetwork.org/outputs/data-curation-primers/)
-* McMaster Library [webpage on file naming and organization](https://library.mcmaster.ca/services/rdm#tab-organizing-research-files-and-folders)
+* McMaster RDM [webpage on file naming and organization](https://rdm.mcmaster.ca/organize#tab-file-folder-organization)
 
 ### Documentation & Metadata
 * Cornell [ReadMe template](https://cornell.app.box.com/v/ReadmeTemplate)
@@ -45,7 +45,7 @@ View the original [here](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef3
 * See our [Strategies for research data storage and backup webinar](storage) for more.
 
 ### Preservation
-* Portage Network [Portage Repository Options Guide](https://portagenetwork.ca/wp-content/uploads/2019/06/Repository-Options-Guide_EN.pdf)
+* Portage Network [Portage Repository Options Guide](https://zenodo.org/record/3966349)
 * DataCite [Repository Finder tool](https://repositoryfinder.datacite.org/)
 * [McMaster Dataverse](https://borealisdata.ca/dataverse/mcmaster)
 * [FRDR](https://www.frdr-dfdr.ca/repo/)
@@ -62,5 +62,5 @@ View the original [here](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef3
 ### Ethics & Legal Compliance
 * [First Nations OCAP Principles](https://fnigc.ca/ocap-training/)
 * [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care)
-* Portage [Sensitive Data Toolkit](https://portagenetwork.ca/news/new-sensitive-data-tools/)
-* McMaster Library [‘Secure’ RDM page](https://library.mcmaster.ca/services/rdm#tab-secure-your-data)
+* Portage [Sensitive Data Toolkit](https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources#heading-sensitive-data-guidance)
+* McMaster Library [‘Secure’ RDM page](https://rdm.mcmaster.ca/secure)

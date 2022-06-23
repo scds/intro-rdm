@@ -37,8 +37,8 @@ View the original [here](https://echo360.ca/media/a8c98c7b-0f41-4510-9100-7955de
 
 ### Data Management Plans
 * [Portage DMP Assistant](assistant.portagenetwork.ca)
-* [Building a Data Management Plan for your research project webinar](scds.github.io/intro-rdm/dmp)
-* [Portage Training Resources including DMP exemplars and templates](https://portagenetwork.ca/tools-and-resources/training-resources/)
+* [Building a Data Management Plan for your research project webinar](dmp)
+* [Digital Alliance of Canada Training Resources including DMP exemplars and templates](https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources)
 
 ### Data Deposit & sharing
 * [Nature Scientific Data: Data Repository Guidance](https://www.nature.com/sdata/policies/repositories)

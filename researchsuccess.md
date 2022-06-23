@@ -37,13 +37,13 @@ View the original [here](https://echo360.ca/media/3575d824-0253-414e-b0ed-8096b1
 * [DMP Competition Winners: DMPs so good they go to 11](https://blog.dmptool.org/2021/05/19/dmp-competition-winners-dmps-so-good-they-go-to-11/)
 
 ### Data Storage & Backup
-* [Strategies for research data storage and backup webinar](https://scds.github.io/intro-rdm/storage.html)
+* [Strategies for research data storage and backup webinar](storage)
 * [Research Data Storage Finder](https://u.mcmaster.ca/storagefinder)
 
 ### Secure your research
 * [University of Illinois Password Strength Test](https://www.uic.edu/apps/strong-password/)
 * [MFA at McMaster](https://office365.mcmaster.ca/mfa/)
-* [McMaster RDM Webpage on Securing data](https://library.mcmaster.ca/services/rdm#tab-secure-your-data)
+* [McMaster RDM Webpage on Securing data](https://rdm.mcmaster.ca/secure)
 
 ### ORCiD
 * [Sign up for your own ORCiD ID](https://orcid.org/register)
