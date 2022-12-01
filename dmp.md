@@ -9,19 +9,18 @@ nav_order: 3
 Confucius said “One who does not plan long ahead will find trouble at his door”. In research, planning for data management helps you prepare for data questions and problems before they happen. In this session, we will go over principles of data management planning and go through a demo of the Portage DMP Assistant, a web-based tool for developing and collaborating on Data Management Plans in the Canadian research context.
 
 
-
 ## Workshop recording
 
-<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/c36015ba-5709-4588-bc26-621e96abf6ff/public"></iframe>
+<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/e0ae5a2f-eebe-4374-859a-ec0d024a0ddb/public"></iframe>
 
-View the original [here](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef38efab4/public).
+View the original [here](https://echo360.ca/media/e0ae5a2f-eebe-4374-859a-ec0d024a0ddb/public).
 
 ## Workshop slides
 
 <div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/DMDS_RDM_Mar2021_Slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-11-07_DMP-Webinar.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
-[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-05-07_DMP_Slides.pdf)
+[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-11-07_DMP-Webinar.pdf)
 <br>
 
 ## Resources referenced during the presentation:
@@ -64,3 +63,9 @@ View the original [here](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef3
 * [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care)
 * Portage [Sensitive Data Toolkit](https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources#heading-sensitive-data-guidance)
 * McMaster Library [‘Secure’ RDM page](https://rdm.mcmaster.ca/secure)
+
+### Previous session recordings
+
+View recordings of earlier sessions of this workshop:
+
+* [May 6th 2021 Recording](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef38efab4/public) and [slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-05-07_DMP_Slides.pdf)
