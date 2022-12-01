@@ -1,7 +1,7 @@
 ---
 layout: default
 title: <b>10</b> - Town Hall: McMaster Draft Institutional RDM Strategy
-nav_order: 10
+nav_order: 11
 ---
 
 # Town Hall: McMaster Draft RDM Institutional Strategy
