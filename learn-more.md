@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Learn More
-nav_order: 15
+nav_order: 150
 ---
 
 - Contact us at [rdm@mcmaster.ca](mailto:rdm@mcmaster.ca)
