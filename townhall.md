@@ -13,13 +13,13 @@ In March 2021, CIHR, NSERC, and SSHRC released the [Tri-Agency Research Data Man
 Matthew Lucas, Executive Director, Corporate Strategy and Performance with the Social Sciences and Humanities Research Council of Canada (SSHRC) opened this Town Hall on behalf of the Tri-Agencies with a presentation on the new RDM Policy. McMaster RDM Services then shared McMaster’s Draft RDM Institutional Strategy and how it was developed. Finally, we opened the floor for researcher feedback and any supports, training, and resources required to meet RDM requirements and best practices to ensure McMaster’s RDM environment aligns with researchers’ RDM needs.
 
 
-## Workshop recording
+## Town Hall recording
 
 <iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/2c1325e6-dd9b-4a9e-8ba4-addd827af238/public"></iframe>
 View the original [here](https://echo360.ca/media/2c1325e6-dd9b-4a9e-8ba4-addd827af238/public).
 
 
-## Workshop slides
+## Town Hall slides
 
 <div style="position:relative;padding-top:66.25%;">
 <iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-11-24_RDM-Town-Hall_Slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
