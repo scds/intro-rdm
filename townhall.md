@@ -1,12 +1,12 @@
 ---
 layout: default
-title: <b>7</b> - Town Hall: McMaster Draft RDM Institutional Strategy
+title: <b>10</b> - Town Hall: McMaster Draft RDM Institutional Strategy
 nav_order: 11
 ---
 
 # Town Hall: McMaster Draft RDM Institutional Strategy
 
-Research Data Management (RDM) Services and Institutional Strategy Working Group have developed a [Draft RDM Institutional Strategy](https://rdm.mcmaster.ca/rdm-strategy) and held a virtual Town Hall to gather feedback from faculty, graduate students, research staff, and other McMaster researchers across disciplines.
+Research Data Management (RDM) Services and Institutional Strategy Working Group developed a [Draft RDM Institutional Strategy](https://rdm.mcmaster.ca/rdm-strategy) and held a virtual Town Hall to gather feedback from faculty, graduate students, research staff, and other McMaster researchers across disciplines.
 
 In March 2021, CIHR, NSERC, and SSHRC released the [Tri-Agency Research Data Management Policy](https://www.science.gc.ca/eic/site/063.nsf/eng/h_97610.html) to advance Canadian research excellence and ensure that publicly funded research is supported by sound RDM and data stewardship practices. Each postsecondary institution eligible to administer Tri-Agency funds is required to develop an institutional RDM strategy that outlines “…how the institution will provide its researchers with an environment that enables and supports RDM.” Upcoming requirements for researchers will include data management plans (DMPs) and data deposit.
 
