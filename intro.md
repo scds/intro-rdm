@@ -49,6 +49,6 @@ View the original [here](https://echo360.ca/media/cdde7620-6f3b-40ff-b0d6-ad12c6
 
 View recordings of earlier sessions of this workshop:
 
-* [January 26, 2022 recording](https://echo360.ca/media/5185ce52-f2c0-44cd-8594-da1456224d4e/public) and [slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-01-RDM-best-practices.pdf)
-* [October 22, 2021 recording](https://echo360.ca/media/d0ef0502-9d7e-497b-9226-e988c3db67b7/public) and [slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-10-22-DMDS-RDM-slides.pdf)
-* [March 16, 2021 recording](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef38efab4/public) and [slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/DMDS_RDM_Mar2021_Slides.pdf)
+* January 26, 2022 [Recording](https://echo360.ca/media/5185ce52-f2c0-44cd-8594-da1456224d4e/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-01-RDM-best-practices.pdf)
+* October 22, 2021 [Recording](https://echo360.ca/media/d0ef0502-9d7e-497b-9226-e988c3db67b7/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-10-22-DMDS-RDM-slides.pdf)
+* March 16, 2021 [Recording](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef38efab4/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/DMDS_RDM_Mar2021_Slides.pdf)

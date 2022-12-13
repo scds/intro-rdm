@@ -49,4 +49,4 @@ View the original [here](https://echo360.ca/media/ee7bb8e5-74ce-4e8a-9bb4-0e5334
 
 View recordings of earlier sessions of this workshop:
 
-* [December 13th 2021 Recording](https://echo360.ca/media/a8c98c7b-0f41-4510-9100-7955de3e0ca5/public) and [slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-12-13-Tri-agency-RDM-policy-slides.pdf)
+* December 13th 2021 [Recording](https://echo360.ca/media/a8c98c7b-0f41-4510-9100-7955de3e0ca5/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-12-13-Tri-agency-RDM-policy-slides.pdf)

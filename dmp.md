@@ -68,4 +68,4 @@ View the original [here](https://echo360.ca/media/e0ae5a2f-eebe-4374-859a-ec0d02
 
 View recordings of earlier sessions of this workshop:
 
-* [May 6th 2021 Recording](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef38efab4/public) and [slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-05-07_DMP_Slides.pdf)
+* May 6th 2021 [Recording](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef38efab4/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-05-07_DMP_Slides.pdf)
