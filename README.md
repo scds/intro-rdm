@@ -10,5 +10,4 @@ Contributions by the following individuals:
 - Online pages created by Isaac Pratt
 
 
-
-All content is made available under a GNU General Public License v3.0.
+All content is made available under a under a Creative Commons Attribution 4.0 International License.

@@ -11,15 +11,15 @@ Are you a researcher who has received a Tri-Agency (CIHR, NSERC, or SSHRC) grant
 
 ## Workshop recording
 
-<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/a8c98c7b-0f41-4510-9100-7955de3e0ca5/public"></iframe>
-View the original [here](https://echo360.ca/media/a8c98c7b-0f41-4510-9100-7955de3e0ca5/public).
+<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/ee7bb8e5-74ce-4e8a-9bb4-0e53342559fc/public"></iframe>
+View the original [here](https://echo360.ca/media/ee7bb8e5-74ce-4e8a-9bb4-0e53342559fc/public).
 
 ## Workshop slides
 
 <div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-05-07-Tri-agency-RDM-policy-slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-12-07_Tri-Agency_RDM_Policy.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
-[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-05-07-Tri-agency-RDM-policy-slides.pdf)
+[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-12-07_Tri-Agency_RDM_Policy.pdf)
 <br>
 
 
@@ -44,3 +44,9 @@ View the original [here](https://echo360.ca/media/a8c98c7b-0f41-4510-9100-7955de
 * [Nature Scientific Data: Data Repository Guidance](https://www.nature.com/sdata/policies/repositories)
 * [McMaster Dataverse](https://borealisdata.ca/dataverse/mcmaster)
 * [Federated Research Data Repository (FRDR)](https://www.frdr-dfdr.ca/repo/)
+
+### Previous session recordings
+
+View recordings of earlier sessions of this workshop:
+
+* [December 13th 2021 Recording](https://echo360.ca/media/a8c98c7b-0f41-4510-9100-7955de3e0ca5/public) and [slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-12-13-Tri-agency-RDM-policy-slides.pdf)
