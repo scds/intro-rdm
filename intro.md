@@ -17,8 +17,7 @@ View the original [here](https://echo360.ca/media/cdde7620-6f3b-40ff-b0d6-ad12c6
 ## Workshop slides
 
 <div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/blob/main/assets/docs/2023-01%20RDM-best-practices_sharing.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-</div>
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-01%20RDM-best-practices_sharing.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 [Download as a PDF](https://github.com/scds/intro-rdm/blob/main/assets/docs/2023-01%20RDM-best-practices_sharing.pdf)
 <br>
 
