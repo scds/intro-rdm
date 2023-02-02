@@ -9,16 +9,15 @@ nav_order: 9
 Are you thinking of sharing your data for re-use by other researchers? Have you been asked to share your data by a journal or funder? Are you worried about the long term accessibility of your data? Join Isaac Pratt (Research Data Management Specialist) for this workshop on how to deposit your data on McMaster Dataverse for archival, preservation, and sharing. Learn more about how openly sharing data can benefit you and the research community, and how online repositories are helping to improve the availability of research data.
 
 ## Workshop recording
-
-<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/f60a5361-79cd-4f4b-8ecb-a5d87d7dc669/public"></iframe>
-View the original [here](https://echo360.ca/media/f60a5361-79cd-4f4b-8ecb-a5d87d7dc669/public).
+<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/fa8eb79e-7cac-4230-89ac-63ccbb6f171b/public"></iframe>
+View the original [here](https://echo360.ca/media/fa8eb79e-7cac-4230-89ac-63ccbb6f171b/public).
 
 ## Workshop slides
 
 <div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-02-15-Dataverse-slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-01-25-McMaster-Dataverse-slides-web.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
-[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-02-15-Dataverse-slides.pdf)
+[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-01-25-McMaster-Dataverse-slides-web.pdf)
 <br>
 
 ## Resources referenced during the presentation:
@@ -48,3 +47,9 @@ View the original [here](https://echo360.ca/media/f60a5361-79cd-4f4b-8ecb-a5d87d
 * [McMaster Dataverse](https://borealisdata.ca/dataverse/mcmaster)
 * [Federated Research Data Repository (FRDR)](https://www.frdr-dfdr.ca/repo/)
 * [re3data Registry of Research Data Repositories](https://www.re3data.org/)
+
+### Previous session recordings
+
+View recordings of earlier sessions of this workshop:
+
+* February 15th 2022 [Recording](https://echo360.ca/media/f60a5361-79cd-4f4b-8ecb-a5d87d7dc669/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-02-15-Dataverse-slides.pdf)
