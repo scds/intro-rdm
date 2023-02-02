@@ -10,16 +10,16 @@ In this introductory workshop, learn about research data management best practic
 
 ## Workshop recording
 
-<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/cdde7620-6f3b-40ff-b0d6-ad12c6ea4eea/public"></iframe>
+<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/7d716595-09dd-48d7-94d1-7b4cf29fcbab/public"></iframe>
 
-View the original [here](https://echo360.ca/media/cdde7620-6f3b-40ff-b0d6-ad12c6ea4eea/public).
+View the original [here](https://echo360.ca/media/7d716595-09dd-48d7-94d1-7b4cf29fcbab/public).
 
 ## Workshop slides
 
 <div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-01%20RDM-best-practices_sharing.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-01-RDM-best-practices_sharing.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
-[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-01%20RDM-best-practices_sharing.pdf)
+[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-01-RDM-best-practices_sharing.pdf)
 <br>
 
 ## Resources referenced during the presentation:
@@ -49,6 +49,7 @@ View the original [here](https://echo360.ca/media/cdde7620-6f3b-40ff-b0d6-ad12c6
 
 View recordings of earlier sessions of this workshop:
 
+* October 22, 2022 [Recording](https://echo360.ca/media/cdde7620-6f3b-40ff-b0d6-ad12c6ea4eea/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-10-RDM-best-practices.pdf)
 * January 26, 2022 [Recording](https://echo360.ca/media/5185ce52-f2c0-44cd-8594-da1456224d4e/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-01-RDM-best-practices.pdf)
 * October 22, 2021 [Recording](https://echo360.ca/media/d0ef0502-9d7e-497b-9226-e988c3db67b7/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-10-22-DMDS-RDM-slides.pdf)
 * March 16, 2021 [Recording](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef38efab4/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/DMDS_RDM_Mar2021_Slides.pdf)
