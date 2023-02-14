@@ -1,7 +1,7 @@
 ---
 layout: default
-title: <b>3</b> - Data storage and backup.
-nav_order: 4
+title: <b>6</b> - Data Storage and Backup.
+nav_order: 7
 ---
 
 # Strategies for research data storage and backup.

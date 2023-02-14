@@ -1,7 +1,7 @@
 ---
 layout: default
-title: <b>9</b> - Data Privacy
-nav_order: 10
+title: <b>7</b> - Data Privacy
+nav_order: 8
 ---
 
 # Data Privacy Best Practices
@@ -25,7 +25,6 @@ View the original [here](https://echo360.ca/media/e069447e-ea47-421e-b864-2360d6
 <br>
 
 ## Resources referenced during the presentation:
-
 * [Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans – TCPS 2 (2018)](https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2018.html)
 * [TCPS 2: CORE-2022 Course on Research Ethics](https://tcps2core.ca/welcome)
 * [International Association of Privacy Professionals](https://iapp.org/)

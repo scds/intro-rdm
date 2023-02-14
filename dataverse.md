@@ -1,7 +1,7 @@
 ---
 layout: default
-title: <b>8</b> - Sharing data on McMaster Dataverse
-nav_order: 9
+title: <b>5</b> - Sharing data with McMaster Dataverse
+nav_order: 6
 ---
 
 # Depositing & Sharing Data Online with McMaster Dataverse Online

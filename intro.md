@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>1</b> - Intro to RDM Best Practices.
+title: <b>1</b> - RDM Best Practices.
 nav_order: 2
 ---
 
@@ -25,7 +25,7 @@ View the original [here](https://echo360.ca/media/7d716595-09dd-48d7-94d1-7b4cf2
 ## Resources referenced during the presentation:
 
 ### Data Management Plans
-* [Portage DMP Assistant](https://assistant.portagenetwork.ca)
+* [DMP Assistant](https://assistant.portagenetwork.ca)
 * [Building a Data Management Plan for your research project webinar](dmp)
 * Digital Research Alliance of Canada (formerly Portage Network) [DMP Exemplars and Templates](https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources#heading-dmp-exemplars)
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: <b>2</b> - Data Management Plans.
-nav_order: 3
+title: <b>3</b> - Data Management Plans.
+nav_order: 4
 ---
 
 # Building a Data Management Plan for your research project.
@@ -26,7 +26,8 @@ View the original [here](https://echo360.ca/media/e0ae5a2f-eebe-4374-859a-ec0d02
 ## Resources referenced during the presentation:
 
 ### General:
-* Portage Network [DMP Exemplars and Templates](https://portagenetwork.ca/tools-and-resources/training-resources/)
+* [DMP Assistant](https://assistant.portagenetwork.ca)
+* Digital Research Alliance of Canada [DMP Exemplars and Templates](https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources#heading-dmp-exemplars)
 * McMaster Library [RDM Website](https://library.mcmaster.ca/services/rdm)
 
 ### File formats:

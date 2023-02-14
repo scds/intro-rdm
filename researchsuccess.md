@@ -1,7 +1,7 @@
 ---
 layout: default
-title: <b>5</b> - 3 Top Tips for RDM & How to set up an ORCiD profile.
-nav_order: 6
+title: <b>2</b> - Brief introduction to RDM and ORCiD.
+nav_order: 3
 ---
 
 # Set yourself up for research success: Manage your data like a pro, and get your own ORCiD profile.
