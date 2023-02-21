@@ -35,13 +35,13 @@ View the original [here](https://echo360.ca/media/285d780b-9635-4bb2-a6ef-1a26b6
 ## Resources referenced during the presentation:
 
 ### How to Use ORCiDs, DOIs, and other Persistent Identifiers
-* DOI - Share Research in Data Repositories - https://rdm.mcmaster.ca/publish
-* DOI - Publish Documents in a Journal or Publication Repository - https://macsphere.mcmaster.ca/
-* ORCiD - Register at https://orcid.org/
-* ROR - https://ror.org/02fa3aq29
+* DOI - Share Research in Data Repositories - [https://rdm.mcmaster.ca/publish](https://rdm.mcmaster.ca/publish)
+* DOI - Publish Documents in a Journal or Publication Repository - [https://macsphere.mcmaster.ca/](https://macsphere.mcmaster.ca/)
+* ORCiD - Register at [https://orcid.org/](https://orcid.org/)
+* ROR - [https://ror.org/02fa3aq29](https://ror.org/02fa3aq29)
 
 ### Other helpful resources
-* Contributor Roles Taxonomy, “CRediT: 14 Contributor Roles,” 2023, accessed February 10, 2023, https://credit.niso.org/
-* Mark Leggott, John Aspler, Brian Corrie, Robyn Nicholson, Jill Liu, Carly Huitema, "Persistent Identifiers: Current Landscape and Future Trends," Research Data Canada IDs Working Group, Standards and Interoperability Committee. March 2022, 10.5281/zenodo.7065515
-* Zittrain, Jonathan, John Bowers, and Clare Stanton. “The Paper of Record Meets an Ephemeral Web: An Examination of Linkrot and Content Drift within The New York Times.” SSRN Electronic Journal, 2021. https://doi.org/10.2139/ssrn.3833133
-* ARK Alliance, “Comparing ARKs, DOIs and other identifier systems,” November 3, 2022, accessed February 10, 2023, https://arks.org/about/comparing-arks-and-other-identifiers/ 
+* Contributor Roles Taxonomy, “CRediT: 14 Contributor Roles,” 2023 - [https://credit.niso.org/](https://credit.niso.org/)
+* Mark Leggott, John Aspler, Brian Corrie, Robyn Nicholson, Jill Liu, Carly Huitema, "Persistent Identifiers: Current Landscape and Future Trends," Research Data Canada IDs Working Group, Standards and Interoperability Committee. March 2022, [https://doi.org/10.5281/zenodo.7065515](https://doi.org/10.5281/zenodo.7065515)
+* Zittrain, Jonathan, John Bowers, and Clare Stanton. “The Paper of Record Meets an Ephemeral Web: An Examination of Linkrot and Content Drift within The New York Times.” SSRN Electronic Journal, 2021. [https://doi.org/10.2139/ssrn.3833133](https://doi.org/10.2139/ssrn.3833133)
+* ARK Alliance, “Comparing ARKs, DOIs and other identifier systems,” November 3, 2022, accessed February 10, 2023, [https://arks.org/about/comparing-arks-and-other-identifiers/](https://arks.org/about/comparing-arks-and-other-identifiers/)
