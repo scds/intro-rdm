@@ -1,18 +1,22 @@
 ---
 layout: default
-title: <b>8</b> - Sensitive Data Management
-nav_order: 9
+title: <b>9</b> - What are ORCiDs and DOIs—and Why Do I Need Them?
+nav_order: 10
 ---
 
-# Securely Managing and Publishing Sensitive Data
+# What are ORCiDs and DOIs—and Why Do I Need Them?
 
-<img alt="Sensitive Data webinar advert graphic" style="border-width:0" src="https://github.com/scds/intro-rdm/raw/main/assets/img/sensitive-data.png">
+<img alt="DOI and ORCiD webinar advert graphic" style="border-width:0" src="https://github.com/scds/intro-rdm/raw/main/assets/img/orcid-doi.png">
 
-Are you working with environmental, commercial, health, personal, or other sensitive data? Are you unsure whether your data is sensitive and unclear on your responsibilities for managing it?
+We’ve all seen a 404-error message, trying to access an old hyperlink. Link rot happens when a site is removed or a URL stops pointing to the right location. Persistent identifiers (PIDs) are reference links that can never rot and are increasingly important in an interconnected research world!
 
-In this workshop, we will discuss the foundations of working with sensitive data including how to protect your data, your research participants, and yourself. We'll take about how and when to de-identify sensitive data, and how to share sensitive data.
+While some fields and researchers have actively incorporated PIDs for many years now, others rely on interpersonal networks and personal websites to connect their research. This workshop will give you skills to augment those important connections with PIDs.
 
-Presented by Isaac Pratt, Research Data Management Specialist
+Some might have received a Digital Object Identifier (DOI) for an article published in a journal, but they can also be used to share data (field notes, methods, audio recordings, code), connected to a website, or associated with an artwork. An Open Researcher and Contributor ID (ORCiD) is a unique link where you can connect to all your expansive scholarly output—datasets, articles, exhibitions, projects, interviews, education, residencies, and more.
+
+Used together, PIDs can help you find new collaborators across disciplines, recognize the breadth of your work beyond journals, and allow you to connect to your research practice over time.
+
+Presented by Jeffrey Demaine (Bibliometrics and Research Impact Librarian) and Danica Evering (Research Data Management Specialist).
 
 ## Workshop recording
 
@@ -23,33 +27,21 @@ View the original [here](https://echo360.ca/media/0ee4e5ff-b506-4cfe-84eb-db362f
 ## Workshop slides
 
 <div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-02-08-Sensitive-data.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-09-23-ORCID_slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
-[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-02-08-Sensitive-data.pdf)
+[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-09-23-ORCID_slides.pdf)
 <br>
 
 ## Resources referenced during the presentation:
 
-### Requirements for sensitive data management
-* [Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans – TCPS 2 (2018)](https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2018.html)
-* [TCPS 2: CORE-2022 Course on Research Ethics](https://tcps2core.ca/welcome)
-* [McMaster Privacy Office](https://secretariat.mcmaster.ca/privacy/)
-* [EU General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
-* [Ontario Personal Health Information Protection Act (PHIPA) 2004](https://www.ontario.ca/laws/statute/04p03)
-* [Tri-Agency Research Data Management Policy](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy-frequently-asked-questions)
-* [NIH Data Management & Sharing Policy](https://sharing.nih.gov/data-management-and-sharing-policy/about-data-management-and-sharing-policies/data-management-and-sharing-policy-overview)
-* [CARE Principles for Indigenous Data Management](https://www.gida-global.org/care)
-* [The First Nations Principles of OCAP](https://fnigc.ca/ocap-training/)
-
-### De-identification
-* [Amnesia](https://amnesia.openaire.eu/)
-* [sdcMicro](https://cran.r-project.org/web/packages/sdcMicro/index.html)
-* [Portage Network’s Reducing Risk Webinar](https://www.youtube.com/watch?v=X3MKP_-FrWE) and [slides](https://portagenetwork.ca/wp-content/uploads/2020/07/ReducingRisk-PortageWebinar.pdf)
-* [A Visual Guide to Practical Data De-identification](https://fpf.org/blog/a-visual-guide-to-practical-data-de-identification/)
+### How to Use ORCiDs, DOIs, and other Persistent Identifiers
+DOI - Share Research in Data Repositories - https://rdm.mcmaster.ca/publish
+DOI - Publish Documents in a Journal or Publication Repository - https://macsphere.mcmaster.ca/
+ORCiD - Register at https://orcid.org/
+ROR - https://ror.org/02fa3aq29
 
 ### Other helpful resources
-* [DMP Assistant](https://assistant.portagenetwork.ca)
-* [Portage’s Research Data Management Language for Informed Consent](https://doi.org/10.5281/zenodo.4060460)
-* [MILO Sample data sharing/transfer agreements](https://research.mcmaster.ca/industry-investors/sample-agreements-standard-terms/)
-* [McMaster Dataverse](https://borealisdata.ca/dataverse/mcmaster)
-* [Federated Research Data Repository (FRDR)](https://www.frdr-dfdr.ca/repo/)
+Contributor Roles Taxonomy, “CRediT: 14 Contributor Roles,” 2023, accessed February 10, 2023, https://credit.niso.org/
+Mark Leggott, John Aspler, Brian Corrie, Robyn Nicholson, Jill Liu, Carly Huitema, "Persistent Identifiers: Current Landscape and Future Trends," Research Data Canada IDs Working Group, Standards and Interoperability Committee. March 2022, 10.5281/zenodo.7065515
+Zittrain, Jonathan, John Bowers, and Clare Stanton. “The Paper of Record Meets an Ephemeral Web: An Examination of Linkrot and Content Drift within The New York Times.” SSRN Electronic Journal, 2021. https://doi.org/10.2139/ssrn.3833133
+ARK Alliance, “Comparing ARKs, DOIs and other identifier systems,” November 3, 2022, accessed February 10, 2023, https://arks.org/about/comparing-arks-and-other-identifiers/ 
