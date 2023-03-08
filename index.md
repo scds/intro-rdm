@@ -17,4 +17,4 @@ If you're looking for upcoming live webinars and workshops, check out the listin
 
 If you are developing training on Research Data Management and would like to use our slides as a starting point, we would love to exchange PowerPoint files with you--please email [rdm@mcmaster.ca](mailto:rdm@mcmaster.ca).
 
-[RDM Services](https://rdm.mcmaster.ca) at McMaster are provided by the [Sherman Centre for Digital Scholarship](https://scds.ca/) as part of the Digital Research Commons Pilot(http://askresearch.mcmaster.ca) and sponsored by the [University Library](https://library.mcmaster.ca/)
+[RDM Services](https://rdm.mcmaster.ca) at McMaster are provided by the [Sherman Centre for Digital Scholarship](https://scds.ca/) as part of the [Digital Research Commons Pilot](http://askresearch.mcmaster.ca) and sponsored by the [University Library](https://library.mcmaster.ca/)
