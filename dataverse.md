@@ -4,7 +4,7 @@ title: <b>5</b> - Sharing data with McMaster Dataverse
 nav_order: 6
 ---
 
-# Depositing & Sharing Data Online with McMaster Dataverse Online
+# Depositing & Sharing Data Online with McMaster Dataverse
 
 Are you thinking of sharing your data for re-use by other researchers? Have you been asked to share your data by a journal or funder? Are you worried about the long term accessibility of your data? Join Isaac Pratt (Research Data Management Specialist) for this workshop on how to deposit your data on McMaster Dataverse for archival, preservation, and sharing. Learn more about how openly sharing data can benefit you and the research community, and how online repositories are helping to improve the availability of research data.
 
