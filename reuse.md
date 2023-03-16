@@ -30,14 +30,29 @@ View the original [here](https://echo360.ca/media/a11f0c07-f563-48ea-af62-b9e644
 
 ## Resources referenced during the presentation:
 
-### How to Use ORCiDs, DOIs, and other Persistent Identifiers
-* DOI - Share Research in Data Repositories - [https://rdm.mcmaster.ca/publish](https://rdm.mcmaster.ca/publish)
-* DOI - Publish Documents in a Journal or Publication Repository - [https://macsphere.mcmaster.ca/](https://macsphere.mcmaster.ca/)
-* ORCiD - Register at [https://orcid.org/](https://orcid.org/)
-* ROR - [https://ror.org/02fa3aq29](https://ror.org/02fa3aq29)
+### General Searching
+* [DataCite General Search](https://search.datacite.org/)
+* [Google Dataset Search](https://datasetsearch.research.google.com/)
 
-### Other helpful resources
-* Contributor Roles Taxonomy, “CRediT: 14 Contributor Roles,” 2023 - [https://credit.niso.org/](https://credit.niso.org/)
-* Mark Leggott, John Aspler, Brian Corrie, Robyn Nicholson, Jill Liu, Carly Huitema, "Persistent Identifiers: Current Landscape and Future Trends," Research Data Canada IDs Working Group, Standards and Interoperability Committee. March 2022, [https://doi.org/10.5281/zenodo.7065515](https://doi.org/10.5281/zenodo.7065515)
-* Zittrain, Jonathan, John Bowers, and Clare Stanton. “The Paper of Record Meets an Ephemeral Web: An Examination of Linkrot and Content Drift within The New York Times.” SSRN Electronic Journal, 2021. [https://doi.org/10.2139/ssrn.3833133](https://doi.org/10.2139/ssrn.3833133)
-* ARK Alliance, “Comparing ARKs, DOIs and other identifier systems,” November 3, 2022, accessed February 10, 2023, [https://arks.org/about/comparing-arks-and-other-identifiers/](https://arks.org/about/comparing-arks-and-other-identifiers/)
+### Government and Administrative Data
+* [Statistics Canada Research Data Centre at McMaster (RDC)](https://rdc.mcmaster.ca)
+* [McMaster Library Data Services for DLI](https://library.mcmaster.ca/services/data-services)
+
+### Finding Domain-Specific Repositories
+* [DataCite Repository Finder](https://repositoryfinder.datacite.org)
+* [MIRA Open access data repositories](https://mira.mcmaster.ca/research/open-access-data-repositories)
+* [Nature – Repositories by Discipline](https://www.nature.com/sdata/policies/repositories)
+* [NIH Recommended Repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)
+* [DARIAH - Data Deposit Recommendation Service for Humanities](https://ddrs-dev.dariah.eu/ddrs/)
+* [Ontario Data Documentation, Extraction Service and Infrastructure <odesi>](https://search1.odesi.ca/#/)
+
+### Interesting Data Sources
+* Data Is Plural - [https://www.data-is-plural.com/](https://www.data-is-plural.com/)
+
+### Data Access
+* McMaster Research Ethics Board – [Simple Data Sharing Agreement](https://macrem.mcmaster.ca/Personalisation/DownloadTemplate/1090) 
+* [McMaster Industry Liaison Office – Material Transfer Agreement Templates](https://research.mcmaster.ca/industry-investors/sample-agreements-standard-terms/)
+* [Secure Empirical Analysis Lab (SEAL)](https://seal.mcmaster.ca/)
+* [FNIGC - OCAP Principles](https://fnigc.ca/ocap-training/)
+* [Inuit Qaujimajatuqangit](https://doi.org/10.1139/as-2020-0015)
+* [Global Indigenous Data Alliance’s CARE Principles](https://www.gida-global.org/care)
