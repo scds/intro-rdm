@@ -1,7 +1,7 @@
 ---
 layout: default
-title: <b>10</b> - Research Project Management with OSF
-nav_order: 11
+title: <b>11</b> - Research Project Management with OSF
+nav_order: 12
 ---
 
 # Organize Your Research Projects with the Open Science Framework (OSF)
