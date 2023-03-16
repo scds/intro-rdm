@@ -1,7 +1,7 @@
 ---
 layout: default
-title: <b>11</b> - Tri-Agency RDM requirements
-nav_order: 12
+title: <b>12</b> - Tri-Agency RDM requirements
+nav_order: 13
 ---
 
 # What you need to know about the Tri-Agency RDM Policy
