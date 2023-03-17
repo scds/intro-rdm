@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>9</b>ORCiDs and DOIs
+title: <b>9</b> - ORCiDs and DOIs
 nav_order: 10
 ---
 

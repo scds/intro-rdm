@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>6</b> - Data Storage and Backup.
+title: <b>6</b> - Data Storage and Backup
 nav_order: 7
 ---
 
