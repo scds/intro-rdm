@@ -1,9 +1,3 @@
----
-layout: default
-title: <b>10</b> - Before You Dig: Finding and Reusing Datasets
-nav_order: 11
----
-
 # Before You Dig: Finding and Reusing Datasets
 
 <img alt="DOI and ORCiD webinar advert graphic" style="border-width:0" src="https://github.com/scds/intro-rdm/raw/main/assets/img/reuse.png">
