@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>10</b>- Before You Dig: Finding and Reusing Datasets
+title: <b>10</b> - Before You Dig: Finding and Reusing Datasets
 nav_order: 11
 ---
 
