@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>9</b> - What are ORCiDs and DOIs—and Why Do I Need Them?
+title: <b>9</b>ORCiDs and DOIs
 nav_order: 10
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>3</b> - Data Management Plans.
+title: <b>3</b> - Data Management Plans
 nav_order: 4
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>4</b> - Data Sharing.
+title: <b>4</b> - Data Sharing
 nav_order: 5
 ---
 

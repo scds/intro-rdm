@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>1</b> - RDM Best Practices.
+title: <b>1</b> - RDM Best Practices
 nav_order: 2
 ---
 
