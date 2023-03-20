@@ -23,9 +23,9 @@ View the original [here](https://echo360.ca/media/a11f0c07-f563-48ea-af62-b9e644
 ## Workshop slides
 
 <div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-03-15_Reuse.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-03-15_Reuse_Data.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
-[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-03-15_Reuse.pdf)
+[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-03-15_Reuse_Data.pdf)
 <br>
 
 ## Resources referenced during the presentation:
