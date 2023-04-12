@@ -17,6 +17,7 @@ Some might have received a Digital Object Identifier (DOI) for an article publis
 Used together, PIDs can help you find new collaborators across disciplines, recognize the breadth of your work beyond journals, and allow you to connect to your research practice over time.
 
 Presented by Jeffrey Demaine (Bibliometrics and Research Impact Librarian) and Danica Evering (Research Data Management Specialist).
+[Book an appointment with Jeff, Danica, or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
 
 ## Workshop recording
 
