@@ -8,6 +8,9 @@ nav_order: 4
 
 Confucius said “One who does not plan long ahead will find trouble at his door”. In research, planning for data management helps you prepare for data questions and problems before they happen. In this session, we will go over principles of data management planning and go through a demo of the Portage DMP Assistant, a web-based tool for developing and collaborating on Data Management Plans in the Canadian research context.
 
+Presentation by Danica Evering and Isaac Pratt, Research Data Management Specialists.
+[Book an appointment with Danica, Isaac, or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
+
 
 ## Workshop recording
 
