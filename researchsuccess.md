@@ -6,11 +6,12 @@ nav_order: 3
 
 # Set yourself up for research success: Manage your data like a pro, and get your own ORCiD profile.
 
-Presented by Jeffrey Demaine, Bibliometrics and Research Impact Librarian; and Isaac Pratt, Research Data Management Specialist.
-
 Your profile as a researcher is a story that you create, and you will need an online presence that is separate from popular social media. Learn how to distinguish yourself from other researchers by creating a free ORCiD account that will automatically showcase all your academic activities, ensuring that you get credit for your work. This is the book in which your research story will be written.
 
 Set up your research project for success with good data management practices. Learn how to organize and document your data to save time and make your life easier. Follow a few simple tips to keep your data safe and securely store your research data so your thesis isn't taken down by a hard drive failure.
+
+Presentation by Jeffrey Demaine, Bibliometrics and Research Impact Librarian; and Isaac Pratt, Research Data Management Specialist.
+[Book an appointment with Isaac, Jeff, or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
 
 ## Workshop recording
 <iframe height="360" width="640" allowfullscreen frameborder=0 src="
