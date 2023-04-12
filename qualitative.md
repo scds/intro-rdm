@@ -12,7 +12,8 @@ Qualitative methods let us share nuanced interpretations of multifaceted issues.
 
 This workshop welcomes both groups to learn about best practices and considerations for managing and sharing quantitative data. We’ll start with practical skills and workflows, and then move on to a discussion about hesitations and urgencies. Qualitative research often grows out of relationships of trust, and information is deeply contextual, making data sharing sticky. However, communities are often approached by different researchers for similar information, and data sharing can also help alleviate research fatigue. Let’s learn and unpack together!
 
-Presented by Danica Evering, Research Data Management Specialist.
+Presentation by Danica Evering, Research Data Management Specialist.
+[Book an appointment with Danica or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
 
 <i>This workshop is a companion presentation to “Securely Managing and Publishing Sensitive Data” - [watch here](https://scds.github.io/intro-rdm/sensitive.html)
 
