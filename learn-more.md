@@ -5,6 +5,7 @@ nav_order: 150
 ---
 
 - Contact us at [rdm@mcmaster.ca](mailto:rdm@mcmaster.ca)
+- [Book an appointment with Danica, Isaac, or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
 
 ## More info and other tools
 
