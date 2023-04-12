@@ -8,6 +8,8 @@ nav_order: 13
 
 OSF is a free, open platform to support research and enable collaboration. Join us to learn more about this great platform and how you can use it to organize your research projects, build a space for your research group to work together, collaborate on files and protocols, and publish your research openly!
 
+Presentation by Katie Harding, Engineering Librarian, and Isaac Pratt, Research Data Management Specialist.
+[Book an appointment with Isaac or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
 
 
 ## Workshop recording
