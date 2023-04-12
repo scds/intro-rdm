@@ -6,7 +6,10 @@ nav_order: 14
 
 # What you need to know about the Tri-Agency RDM Policy
 
-Are you a researcher who has received a Tri-Agency (CIHR, NSERC, or SSHRC) grant? Do you plan to apply for a Tri-Agency grant in the future? Join this session to learn more about the new Tri-Agency Research Data Management policy, what it means for you as a researcher, and the services McMaster provides to help you meet the new requirements. This session will be recorded and made available openly.
+Are you a researcher who has received a Tri-Agency (CIHR, NSERC, or SSHRC) grant? Do you plan to apply for a Tri-Agency grant in the future? Join this session to learn more about the new Tri-Agency Research Data Management policy, what it means for you as a researcher, and the services McMaster provides to help you meet the new requirements. 
+
+Presentation by Danica Evering and Isaac Pratt, Research Data Management Specialists. 
+[Book an appointment with Isaac, Danica, or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
 
 
 ## Workshop recording
