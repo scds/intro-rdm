@@ -12,7 +12,8 @@ Are you starting a research project? There may be existing datasets that could i
 
 Join McMaster RDM Services to learn more about finding and reusing datasets in data repositories across the world. Find potential new collaborators, verify or reproduce results, expand on existing data, and more!
 
-Presented by RDM Specialists Danica Evering, MA and Isaac Pratt, PhD.
+Presentation by Danica Evering and Isaac Pratt, Research Data Management Specialists. 
+[Book an appointment with Isaac, Danica, or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
 
 ## Workshop recording
 
