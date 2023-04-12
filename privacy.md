@@ -10,6 +10,9 @@ nav_order: 8
 
 The Privacy Office joins the Sherman Centre RDM Webinar Series to discuss data privacy best practices, including considerations for collecting, using, and sharing personal information. We will also discuss the privacy impact assessment process, determining appropriate data storage and analyzing vendor solutions. This workshop features a presentation by Trudi Wright (Privacy and Records Management Specialist) followed by a Q&A moderated by Isaac Pratt (Research Data Management Specialist).
 
+Presentation by Trudi Wright, Privacy and Records Management Specialist; introduced and facilitated by Isaac Pratt, Research Data Management Specialist.
+[Book an appointment with Isaac or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
+
 ## Workshop recording
 
 <iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/e069447e-ea47-421e-b864-2360d65b421b/public"></iframe>
