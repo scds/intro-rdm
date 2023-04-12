@@ -12,7 +12,9 @@ Are you working with environmental, commercial, health, personal, or other sensi
 
 In this workshop, we will discuss the foundations of working with sensitive data including how to protect your data, your research participants, and yourself. We'll take about how and when to de-identify sensitive data, and how to share sensitive data.
 
-Presented by Isaac Pratt, Research Data Management Specialist
+Presentation by Isaac Pratt, Research Data Management Specialist. 
+[Book an appointment with Isaac or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
+
 
 ## Workshop recording
 
