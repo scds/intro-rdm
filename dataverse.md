@@ -8,6 +8,9 @@ nav_order: 6
 
 Are you thinking of sharing your data for re-use by other researchers? Have you been asked to share your data by a journal or funder? Are you worried about the long term accessibility of your data? Join Isaac Pratt (Research Data Management Specialist) for this workshop on how to deposit your data on McMaster Dataverse for archival, preservation, and sharing. Learn more about how openly sharing data can benefit you and the research community, and how online repositories are helping to improve the availability of research data.
 
+Presentation by Isaac Pratt, Research Data Management Specialist.
+[Book an appointment with Isaac or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
+
 ## Workshop recording
 <iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/fa8eb79e-7cac-4230-89ac-63ccbb6f171b/public"></iframe>
 View the original [here](https://echo360.ca/media/fa8eb79e-7cac-4230-89ac-63ccbb6f171b/public).
