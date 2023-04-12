@@ -8,6 +8,9 @@ nav_order: 2
 
 In this introductory workshop, learn about research data management best practices and how investing a small amount of time in organizing your data now can save you a lot of time and prevent future headaches. We will go over  best practices for data planning, storage, organization, preservation, and sharing.
 
+Presentation by Danica Evering and Isaac Pratt, Research Data Management Specialists.
+[Book an appointment with Danica, Isaac, or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
+
 ## Workshop recording
 
 <iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/7d716595-09dd-48d7-94d1-7b4cf29fcbab/public"></iframe>
