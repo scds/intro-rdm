@@ -13,16 +13,16 @@ Presentation by Danica Evering and Isaac Pratt, Research Data Management Special
 
 ## Workshop recording
 
-<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/7d716595-09dd-48d7-94d1-7b4cf29fcbab/public"></iframe>
+<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/f50a5ead-79b6-45db-a7b4-930bbdbc4edd/public"></iframe>
 
-View the original [here](https://echo360.ca/media/7d716595-09dd-48d7-94d1-7b4cf29fcbab/public).
+View the original [here](https://echo360.ca/media/f50a5ead-79b6-45db-a7b4-930bbdbc4edd/public).
 
 ## Workshop slides
 
 <div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-01-RDM-best-practices_sharing.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/blob/main/assets/docs/2023-09_RDM-best-practices.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
-[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-01-RDM-best-practices_sharing.pdf)
+[Download as a PDF](https://github.com/scds/intro-rdm/blob/main/assets/docs/2023-09_RDM-best-practices.pdf)
 <br>
 
 ## Resources referenced during the presentation:
