@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>2</b> - Crash Course: Digital Tools.
+title: <b>2</b> - Crash Course: Digital Tools
 nav_order: 3
 ---
 
@@ -20,20 +20,23 @@ View the original [here](https://echo360.ca/media/2824982a-94ea-40c6-a7d0-da3f35
 
 ## Research Data Management slides
 <div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-09-20_CrashCourse-RDM?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-09-20_CrashCourse-RDM.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
-[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-09-20_CrashCourse-RDM)
+[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-09-20_CrashCourse-RDM.pdf)
+<br>
 
 ## How to Set up your ORCiD ID slides
 <div style="position:relative;padding-top:66.25%;">
 <iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-09-20_CrashCourse-ORCID.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
 [Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-09-20_CrashCourse-ORCID.pdf)
+<br>
 
 ## Resources referenced during the presentation:
 
 ### Data Management Plans
-* [Portage DMP Assistant](https://dmp-pgd.ca/)
+* [DMP Assistant](https://dmp-pgd.ca/)
+* [Data Management Plan Database](https://rdm.mcmaster.ca/dmps)
 * [Building a Data Management Plan for your research project webinar](scds.github.io/intro-rdm/dmp)
 * [DMP Competition Winners: DMPs so good they go to 11](https://blog.dmptool.org/2021/05/19/dmp-competition-winners-dmps-so-good-they-go-to-11/)
 
