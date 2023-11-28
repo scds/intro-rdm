@@ -6,10 +6,10 @@ nav_order: 4
 
 # Building a Data Management Plan for your research project.
 
-Confucius said “One who does not plan long ahead will find trouble at his door”. In research, planning for data management helps you prepare for data questions and problems before they happen. In this session, we will go over principles of data management planning and go through a demo of the Portage DMP Assistant, a web-based tool for developing and collaborating on Data Management Plans in the Canadian research context.
+Planning ahead for research helps you prepare for data questions and problems before they happen. Submitting a Data Management Plan (DMP) is increasingly a requirement for funding applications with Tri-Agencies and the NIH. But DMPs can also be very helpful "living documents": research tools that identify strengths and gaps which are updated through your research process. In this session, we'll start with best practices of data management planning and go through a demo of DMP Assistant, a web-based tool for developing and collaborating on Data Management Plans in the Canadian research context.
 
-Presentation by Danica Evering and Isaac Pratt, Research Data Management Specialists.
-[Book an appointment with Danica, Isaac, or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
+Presentation by Danica Evering and Emilie Altman, Research Data Management Specialists.
+[Book an appointment with Danica, Emilie, or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
 
 
 ## Workshop recording
