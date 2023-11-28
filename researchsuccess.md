@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>2</b> - Crash Course: Digital Tools
+title: <b>2</b> - Crash Course - Digital Tools for Grads
 nav_order: 3
 ---
 
