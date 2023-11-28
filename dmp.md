@@ -14,24 +14,25 @@ Presentation by Danica Evering and Isaac Pratt, Research Data Management Special
 
 ## Workshop recording
 
-<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/e0ae5a2f-eebe-4374-859a-ec0d024a0ddb/public"></iframe>
+<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/4c43985c-5e24-4b53-95fd-7ad524a13fa6/public"></iframe>
 
-View the original [here](https://echo360.ca/media/e0ae5a2f-eebe-4374-859a-ec0d024a0ddb/public).
+View the original [here](https://echo360.ca/media/4c43985c-5e24-4b53-95fd-7ad524a13fa6/public).
 
 ## Workshop slides
 
 <div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-11-07_DMP-Webinar.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-10-25_DMPs.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
-[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-11-07_DMP-Webinar.pdf)
+[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-10-25_DMPs.pdf)
 <br>
 
 ## Resources referenced during the presentation:
 
 ### General:
-* [DMP Assistant](https://assistant.portagenetwork.ca)
+* [DMP Assistant](https://dmp-pgd.ca/)
+* [Data Management Plan Database](https://rdm.mcmaster.ca/dmps)
 * Digital Research Alliance of Canada [DMP Exemplars and Templates](https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources#heading-dmp-exemplars)
-* McMaster Library [RDM Website](https://library.mcmaster.ca/services/rdm)
+* [McMaster RDM Website](https://rdm.mcmaster.ca/research-data-management)
 
 ### File formats:
 * DataverseNO [Prepare your data: Preferred file formats](https://site.uit.no/dataverseno/deposit/prepare/#what-are-preferred-file-formats)
@@ -39,7 +40,8 @@ View the original [here](https://echo360.ca/media/e0ae5a2f-eebe-4374-859a-ec0d02
 * McMaster RDM [webpage on file naming and organization](https://rdm.mcmaster.ca/organize#tab-file-folder-organization)
 
 ### Documentation & Metadata
-* Cornell [ReadMe template](https://cornell.app.box.com/v/ReadmeTemplate)
+* [McMaster README template](https://rdm.mcmaster.ca/sites/default/files/YYYYMMDD_AUTHOR_DATASET_ReadmeTemplate.txt)
+* [McMaster guidance on file folder organization and documentation](https://rdm.mcmaster.ca/organize#tab-file-folder-organization)
 * Portage Dataverse North [Metadata Best Practices Guide v 2.0](http://hdl.handle.net/2429/73609)
 * DCC [list of disciplinary metadata standards](https://www.dcc.ac.uk/guidance/standards/metadata)
 
@@ -52,6 +54,7 @@ View the original [here](https://echo360.ca/media/e0ae5a2f-eebe-4374-859a-ec0d02
 * DataCite [Repository Finder tool](https://repositoryfinder.datacite.org/)
 * [McMaster Dataverse](https://borealisdata.ca/dataverse/mcmaster)
 * [FRDR](https://www.frdr-dfdr.ca/repo/)
+* [Data Repository Guidance from <i>Nature Scientific Data</i>](https://www.nature.com/sdata/policies/repositories)
 
 ### Sharing & Re-use
 * Portage Network [De-Identification Guidance Document](https://zenodo.org/record/4270551)
@@ -71,5 +74,5 @@ View the original [here](https://echo360.ca/media/e0ae5a2f-eebe-4374-859a-ec0d02
 ### Previous session recordings
 
 View recordings of earlier sessions of this workshop:
-
+* November 16th 2022 [Recording](ttps://echo360.ca/media/e0ae5a2f-eebe-4374-859a-ec0d024a0ddb/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-11-07_DMP-Webinar.pdf)
 * May 6th 2021 [Recording](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef38efab4/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-05-07_DMP_Slides.pdf)
