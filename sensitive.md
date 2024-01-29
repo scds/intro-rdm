@@ -4,9 +4,9 @@ title: <b>8</b> - Sensitive Data Management
 nav_order: 9
 ---
 
-# Securely Managing and Publishing Sensitive Data
-
 <img alt="Sensitive Data webinar advert graphic" style="border-width:0" src="https://github.com/scds/intro-rdm/raw/main/assets/img/sensitive-data.png">
+
+# Securely Managing and Publishing Sensitive Data
 
 Are you working with environmental, commercial, health, personal, or other sensitive data? Are you unsure whether your data is sensitive and unclear on your responsibilities for managing it?
 
@@ -18,17 +18,15 @@ Presentation by Isaac Pratt, Research Data Management Specialist.
 
 ## Workshop recording
 
-<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/0ee4e5ff-b506-4cfe-84eb-db362f684e4a/public"></iframe>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/0ee4e5ff-b506-4cfe-84eb-db362f684e4a/public"></iframe>
 
 View the original [here](https://echo360.ca/media/0ee4e5ff-b506-4cfe-84eb-db362f684e4a/public).
 
 ## Workshop slides
 
-<div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-02-08-Sensitive-data.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-</div>
+<embed src="assets/docs/2023-02-08-Sensitive-data.pdf" style="border:none;" width="100%" height="466px">
+
 [Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-02-08-Sensitive-data.pdf)
-<br>
 
 ## Resources referenced during the presentation:
 

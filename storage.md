@@ -13,14 +13,14 @@ Presentation by Isaac Pratt, Research Data Management Specialist.
 
 
 ## Workshop recording
-<iframe height="360" width="640" allowfullscreen frameborder=0 src="
-https://echo360.ca/media/867cb325-5534-4673-80cd-a7b1fd7d57fc/public"></iframe>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/867cb325-5534-4673-80cd-a7b1fd7d57fc/public"></iframe>
+
 View the original [here](https://echo360.ca/media/867cb325-5534-4673-80cd-a7b1fd7d57fc/public).
 
 ## Workshop slides
-<div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-06-03_DataStorage_Slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-</div>
+
+<embed src="assets/docs/2021-06-03_DataStorage_Slides.pdf" style="border:none;" width="100%" height="466px">
+
 [Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-06-03_DataStorage_Slides.pdf)
 
 ## Resources referenced during the presentation:

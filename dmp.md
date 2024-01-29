@@ -14,17 +14,15 @@ Presentation by Danica Evering and Emilie Altman, Research Data Management Speci
 
 ## Workshop recording
 
-<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/4c43985c-5e24-4b53-95fd-7ad524a13fa6/public"></iframe>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/4c43985c-5e24-4b53-95fd-7ad524a13fa6/public"></iframe>
 
 View the original [here](https://echo360.ca/media/4c43985c-5e24-4b53-95fd-7ad524a13fa6/public).
 
 ## Workshop slides
 
-<div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2023_10_25_DMP-slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-</div>
+<embed src="assets/docs/2023_10_25_DMP-slides.pdf" style="border:none;" width="100%" height="466px">
+
 [Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023_10_25_DMP-slides.pdf)
-<br>
 
 ## Resources referenced during the presentation:
 

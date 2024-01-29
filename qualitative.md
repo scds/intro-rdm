@@ -4,9 +4,9 @@ title: <b>11</b> - Qualitative Data
 nav_order: 12
 ---
 
-# Qualitative Data - Practices for RDM Planning and Sharing
-
 <img alt="Qualitative Data webinar advert graphic" style="border-width:0" src="https://github.com/scds/intro-rdm/raw/main/assets/img/qualitative.png">
+
+# Qualitative Data - Practices for RDM Planning and Sharing
 
 Qualitative methods let us share nuanced interpretations of multifaceted issues. They let us understand lived experiences and motivations, see a research question from different standpoints, and highlight contexts. Qualitative research data can take the form of interview transcripts, oral histories, focus groups, field notes, audio, video, and more. Some qualitative researchers are accustomed to research data management (RDM) and data sharing, while others are less familiar.
 
@@ -19,17 +19,15 @@ Presentation by Danica Evering, Research Data Management Specialist.
 
 ## Workshop recording
 
-<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/06cbb935-5e80-4f3e-9d90-e9d0068c840b/public"></iframe>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/06cbb935-5e80-4f3e-9d90-e9d0068c840b/public"></iframe>
 
 View the original [here](https://echo360.ca/media/06cbb935-5e80-4f3e-9d90-e9d0068c840b/public).
 
 ## Workshop slides
 
-<div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-04-05_Qualitative_Slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-</div>
+<embed src="assets/docs/2023-04-05_Qualitative_Slides.pdf" style="border:none;" width="100%" height="466px">
+
 [Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-04-05_Qualitative_Slides.pdf)
-<br>
 
 ## Resources referenced during the presentation:
 

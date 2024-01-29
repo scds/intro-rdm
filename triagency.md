@@ -14,17 +14,14 @@ Presentation by Danica Evering and Isaac Pratt, Research Data Management Special
 
 ## Workshop recording
 
-<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/ee7bb8e5-74ce-4e8a-9bb4-0e53342559fc/public"></iframe>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/ee7bb8e5-74ce-4e8a-9bb4-0e53342559fc/public"></iframe>
 View the original [here](https://echo360.ca/media/ee7bb8e5-74ce-4e8a-9bb4-0e53342559fc/public).
 
 ## Workshop slides
 
-<div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-12-07_Tri-Agency_RDM_Policy.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-</div>
-[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-12-07_Tri-Agency_RDM_Policy.pdf)
-<br>
+<embed src="assets/docs/2022-12-07_Tri-Agency_RDM_Policy.pdf" style="border:none;" width="100%" height="466px">
 
+[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-12-07_Tri-Agency_RDM_Policy.pdf)
 
 ## Resources referenced during the presentation:
 

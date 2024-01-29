@@ -4,9 +4,9 @@ title: <b>9</b> - ORCiDs and DOIs
 nav_order: 10
 ---
 
-# What are ORCiDs and DOIs—and Why Do I Need Them?
-
 <img alt="DOI and ORCiD webinar advert graphic" style="border-width:0" src="https://github.com/scds/intro-rdm/raw/main/assets/img/orcid-doi.png">
+
+# What are ORCiDs and DOIs—and Why Do I Need Them?
 
 We’ve all seen a 404-error message, trying to access an old hyperlink. Link rot happens when a site is removed or a URL stops pointing to the right location. Persistent identifiers (PIDs) are reference links that can never rot and are increasingly important in an interconnected research world!
 
@@ -21,22 +21,20 @@ Presented by Jeffrey Demaine (Bibliometrics and Research Impact Librarian) and D
 
 ## Workshop recording
 
-<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/285d780b-9635-4bb2-a6ef-1a26b6371706/public"></iframe>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/285d780b-9635-4bb2-a6ef-1a26b6371706/public"></iframe>
 
 View the original [here](https://echo360.ca/media/285d780b-9635-4bb2-a6ef-1a26b6371706/public).
 
 ## Workshop slides
 
-<div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-02-06_ORCiD-PID_Slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-</div>
+<embed src="assets/docs/2023-02-06_ORCiD-PID_Slides.pdf" style="border:none;" width="100%" height="466px">
+
 [Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-02-06_ORCiD-PID_Slides.pdf)
-<br>
-<div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-02-08_Distinguished-Researcher.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-</div>
+
+<embed src="assets/docs/2023-02-08_Distinguished-Researcher.pdf" style="border:none;" width="100%" height="600px">
+
 [Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-02-08_Distinguished-Researcher.pdf)
-<br>
+
 ## Resources referenced during the presentation:
 
 ### How to Use ORCiDs, DOIs, and other Persistent Identifiers

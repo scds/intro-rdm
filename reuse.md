@@ -4,9 +4,10 @@ title: <b>10</b> - Finding and Reusing Datasets
 nav_order: 11
 ---
 
+<img alt="DOI and ORCiD webinar advert graphic" style="border-width:0" src="https://github.com/scds/intro-rdm/raw/main/assets/img/reuse.png">
+
 # Before You Dig: Finding and Reusing Datasets
 
-<img alt="DOI and ORCiD webinar advert graphic" style="border-width:0" src="https://github.com/scds/intro-rdm/raw/main/assets/img/reuse.png">
 
 Are you starting a research project? There may be existing datasets that could inform the work you're doing and ensure you're digging into new research areas. Along with systematic literature review and active participation in your field, a dataset search is another tool to inform your research context.
 
@@ -17,17 +18,15 @@ Presentation by Danica Evering and Isaac Pratt, Research Data Management Special
 
 ## Workshop recording
 
-<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/a11f0c07-f563-48ea-af62-b9e644bccf57/public"></iframe>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/a11f0c07-f563-48ea-af62-b9e644bccf57/public"></iframe>
 
 View the original [here](https://echo360.ca/media/a11f0c07-f563-48ea-af62-b9e644bccf57/public).
 
 ## Workshop slides
 
-<div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-03-15_Reuse_Data.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-</div>
+<embed src="assets/docs/2023-03-15_Reuse_Data.pdf" style="border:none;" width="100%" height="466px">
+
 [Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-03-15_Reuse_Data.pdf)
-<br>
 
 ## Resources referenced during the presentation:
 
