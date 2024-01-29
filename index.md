@@ -5,7 +5,7 @@ description: McMaster RDM Webinars
 nav_order: 1
 ---
 
-<img alt="McMaster Research Data Management Services graphic" style="border-width:0" src="https://github.com/scds/intro-rdm/raw/main/assets/img/RDM-graphic-services-logo.png">
+<img alt="McMaster Research Data Management Services graphic" style="border-width:0" src="assets/img/RDM-graphic-services-logo.png">
 
 # Welcome to the home of the McMaster Research Data Management Seminar Series.
 
