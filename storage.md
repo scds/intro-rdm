@@ -13,15 +13,15 @@ Presentation by Isaac Pratt, Research Data Management Specialist.
 
 
 ## Workshop recording
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/867cb325-5534-4673-80cd-a7b1fd7d57fc/public"></iframe>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/1206927e-1556-4ae4-9df7-322ef92adb4d/public"></iframe>
 
-View the original [here](https://echo360.ca/media/867cb325-5534-4673-80cd-a7b1fd7d57fc/public).
+View the original [here](https://echo360.ca/media/1206927e-1556-4ae4-9df7-322ef92adb4d/public).
 
 ## Workshop slides
 
-<embed src="assets/docs/2021-06-03_DataStorage_Slides.pdf" style="border:none;" width="100%" height="466px">
+<embed src="assets/docs/2024-02-14_Storage.pdf" style="border:none;" width="100%" height="466px">
 
-[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-06-03_DataStorage_Slides.pdf)
+[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2024-02-14_Storage.pdf)
 
 ## Resources referenced during the presentation:
 
@@ -43,3 +43,7 @@ View the original [here](https://echo360.ca/media/867cb325-5534-4673-80cd-a7b1fd
 * [University of Illinois Password Strength Test](https://www.uic.edu/apps/strong-password/)
 * [MFA at McMaster](https://office365.mcmaster.ca/mfa/)
 * [McMaster RDM Webpage on Securing data](https://rdm.mcmaster.ca/secure)
+
+### Previous session recordings
+View recordings of earlier sessions of this workshop:
+* June 3, 2021 - [Video](https://echo360.ca/media/867cb325-5534-4673-80cd-a7b1fd7d57fc/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-06-03_DataStorage_Slides.pdf)
