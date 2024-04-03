@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>2</b> - Crash Course - Digital Tools for Grads
+title: <b>2</b> - RDM Crash Course for Grad Students
 nav_order: 3
 ---
 
