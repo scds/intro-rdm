@@ -1,8 +1,11 @@
 ---
 layout: default
-title: <b>12</b> - Encrypton
+title: <b>12</b> - Encryption
 nav_order: 13
 ---
+
+<img alt="Encryption webinar advert graphic" style="border-width:0" src="https://github.com/scds/intro-rdm/raw/main/assets/img/encryption.png">
+
 
 # How to Implement Encryption to Protect your Research Data Online
 
