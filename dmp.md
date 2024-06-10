@@ -72,5 +72,5 @@ View the original [here](https://echo360.ca/media/4c43985c-5e24-4b53-95fd-7ad524
 ### Previous session recordings
 
 View recordings of earlier sessions of this workshop:
-* November 16th 2022 [Recording](ttps://echo360.ca/media/e0ae5a2f-eebe-4374-859a-ec0d024a0ddb/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-11-07_DMP-Webinar.pdf)
+* November 16th 2022 [Recording](https://echo360.ca/media/e0ae5a2f-eebe-4374-859a-ec0d024a0ddb/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-11-07_DMP-Webinar.pdf)
 * May 6th 2021 [Recording](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef38efab4/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-05-07_DMP_Slides.pdf)
