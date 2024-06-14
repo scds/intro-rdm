@@ -4,52 +4,10 @@ title: <b>1</b> - RDM Best Practices
 nav_order: 2
 ---
 
-# Best Practices for Managing Data in your Research.
+<img alt="Best Practices async module advert graphic" style="border-width:0" src="https://github.com/scds/intro-rdm/raw/main/assets/img/best-practices-async.png">
 
-In this introductory workshop, learn about research data management best practices and how investing a small amount of time in organizing your data now can save you a lot of time and prevent future headaches. We will go over  best practices for data planning, storage, organization, preservation, and sharing.
+# Best Practices for Managing Data in your Research
 
-Presentation by Danica Evering and Isaac Pratt, Research Data Management Specialists.
-[Book an appointment with Danica, Isaac, or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
+In this introductory workshop, learn about research data management best practices and how investing a small amount of time in organizing your data now can save you a lot of time and prevent future headaches. We will go over best practices for data planning, storage, organization, preservation, and sharing.
 
-## Workshop recording
-
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/f50a5ead-79b6-45db-a7b4-930bbdbc4edd/public"></iframe>
-
-View the original [here](https://echo360.ca/media/f50a5ead-79b6-45db-a7b4-930bbdbc4edd/public).
-
-## Workshop slides
-
-<embed src="assets/docs/2023-09_RDM-best-practices-slides.pdf" style="border:none;" width="100%" height="466px">
-[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-09_RDM-best-practices-slides.pdf)
-
-## Resources referenced during the presentation:
-
-### Data Management Plans
-* [DMP Assistant](https://assistant.portagenetwork.ca)
-* [Building a Data Management Plan for your research project webinar](dmp)
-* Digital Research Alliance of Canada (formerly Portage Network) [DMP Exemplars and Templates](https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources#heading-dmp-exemplars)
-
-### Data Management
-* [FAIR Principles](https://www.go-fair.org/fair-principles/)
-* [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
-* [Research Data Storage Finder Tool](http://u.mcmaster.ca/storagefinder)
-* [Tri-Agency Data Management Policy](http://www.science.gc.ca/eic/site/063.nsf/eng/h_97610.html)
-
-### Data Sharing
-* [Creative Commons Licenses](http://creativecommons.org)
-* [Open Data Commons Licenses](http://opendatacommons.org)
-* [Dataverse Community Norms](https://dataverse.org/best-practices/dataverse-community-norms)
-* DataCite [Repository Finder tool](https://repositoryfinder.datacite.org/)
-* Nature Scientific [Data Recommended Data Repositories](https://www.nature.com/sdata/policies/repositories)
-* [re3data Registry of Research Data Repositories](https://www.re3data.org/)
-* [McMaster Dataverse](https://borealisdata.ca/dataverse/mcmaster)
-* [Federated Research Data Repository (FRDR)](https://www.frdr-dfdr.ca/repo/)
-
-### Previous session recordings
-
-View recordings of earlier sessions of this workshop:
-
-* October 22, 2022 [Recording](https://echo360.ca/media/cdde7620-6f3b-40ff-b0d6-ad12c6ea4eea/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-10-RDM-best-practices.pdf)
-* January 26, 2022 [Recording](https://echo360.ca/media/5185ce52-f2c0-44cd-8594-da1456224d4e/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2022-01-RDM-best-practices.pdf)
-* October 22, 2021 [Recording](https://echo360.ca/media/d0ef0502-9d7e-497b-9226-e988c3db67b7/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2021-10-22-DMDS-RDM-slides.pdf)
-* March 16, 2021 [Recording](https://echo360.ca/media/cbeb4b28-21a4-4149-a814-ddeef38efab4/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/DMDS_RDM_Mar2021_Slides.pdf)
+The recording and materials for this workshop are available here: <https://learn.scds.ca/rdm-best-practices/>
