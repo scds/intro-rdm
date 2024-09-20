@@ -4,13 +4,13 @@ title: <b>8</b> - Sensitive Data Management
 nav_order: 9
 ---
 
-<img alt="Sensitive Data webinar advert graphic" style="border-width:0" src="https://github.com/scds/intro-rdm/raw/main/assets/img/sensitive-data.png">
+<img alt="Sensitive Data webinar advert graphic" style="border-width:0" src="https://github.com/scds/intro-rdm/raw/main/assets/img/sensitive-data2024.png">
 
-# Securely Managing and Publishing Sensitive Data
+# Sensitive Data Management
 
 Are you working with environmental, commercial, health, personal, or other sensitive data? Are you unsure whether your data is sensitive and unclear on your responsibilities for managing it?
 
-In this workshop, we will discuss the foundations of working with sensitive data including how to protect your data, your research participants, and yourself. We'll take about how and when to de-identify sensitive data, and how to share sensitive data.
+In this workshop, we will discuss the foundations of working with sensitive data including how to protect your data, your research participants, and yourself. We’ll take about how and when to de-identify sensitive data, and how to share sensitive data.
 
 Presentation by Isaac Pratt, Research Data Management Specialist. 
 [Book an appointment with Isaac or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
@@ -18,15 +18,15 @@ Presentation by Isaac Pratt, Research Data Management Specialist.
 
 ## Workshop recording
 
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/0ee4e5ff-b506-4cfe-84eb-db362f684e4a/public"></iframe>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/7492e3fd-f11f-472a-a813-6df2601332bb/public"></iframe>
 
-View the original [here](https://echo360.ca/media/0ee4e5ff-b506-4cfe-84eb-db362f684e4a/public).
+View the original [here](https://echo360.ca/media/7492e3fd-f11f-472a-a813-6df2601332bb/public).
 
 ## Workshop slides
 
-<embed src="assets/docs/2023-02-08-Sensitive-data.pdf" style="border:none;" width="100%" height="466px">
+<embed src="assets/docs/2024-04-15-Sensitive-data-public.pdf" style="border:none;" width="100%" height="466px">
 
-[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-02-08-Sensitive-data.pdf)
+[Download as a PDF](https://github.com/scds/intro-rdm/raw/main/assets/docs/2024-04-15-Sensitive-data-public.pdf)
 
 ## Resources referenced during the presentation:
 
@@ -53,3 +53,8 @@ View the original [here](https://echo360.ca/media/0ee4e5ff-b506-4cfe-84eb-db362f
 * [MILO Sample data sharing/transfer agreements](https://research.mcmaster.ca/industry-investors/sample-agreements-standard-terms/)
 * [McMaster Dataverse](https://borealisdata.ca/dataverse/mcmaster)
 * [Federated Research Data Repository (FRDR)](https://www.frdr-dfdr.ca/repo/)
+
+### Previous session recordings
+
+View recordings of earlier sessions of this workshop:
+* February 8th 2023 [Recording](https://echo360.ca/media/0ee4e5ff-b506-4cfe-84eb-db362f684e4a/public) and [Slides](https://github.com/scds/intro-rdm/raw/main/assets/docs/2023-02-08-Sensitive-data.pdf)
