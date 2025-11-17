@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 16 - Minimal Computing
+title: <b>16</b> - Minimal Computing
 nav_order: 17
 ---
 
